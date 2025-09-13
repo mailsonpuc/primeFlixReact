@@ -15,7 +15,7 @@ function Home() {
 			const response = await api.get("movie/now_playing",
 				{
 					params: {
-						api_key: "eeac4c9a0f1c7fcd156702106b123192",
+						api_key: " Minha Api Key aqui",
 						language: "pt-BR",
 						page: 1,
 					}
